@@ -1,0 +1,28 @@
+name: Zander
+favicon: null
+layout_spectrum: 0.4823652161285281
+typography_spectrum: 0.36743659945204854
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6143615858163685
+  lightness: 0.05077688698656857
+  saturation: 0.3303161640651524
+  rhythmicContrast: 0.39439288759604096
+purpose: []
