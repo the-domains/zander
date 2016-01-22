@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Zander]]></title>
-        <description><![CDATA[Zander]]></description>
+        <title><![CDATA[Zander Galloway]]></title>
+        <description><![CDATA[Zander Galloway]]></description>
         <link>https://thegrid.ai/zander/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 19:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 21:31:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/zander/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>I'm an insurance strategist and COO at an agency in South Carolina. Also a Brazilian Jiu Jitsu blue belt. I read a lot of books. </p></article>]]></description>
+            <link>https://thegrid.ai/zander/about-me/index.html</link>
+            <guid isPermaLink="false">ead1b980-acd2-4487-ac82-e8ffa0c3b486</guid>
+            <pubDate>Fri, 22 Jan 2016 21:31:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Keep Pounding in Tikal]]></title>
             <description><![CDATA[<article><h1>Keep Pounding in Tikal</h1><p>Cheering on the Panthers from a recent trip to Guatemala</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0adad4d78b83eca46c14ddf4b7fb4c13fb453a4.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[The iPhone Thought Experiment - Wait But Why]]></title>
-            <description><![CDATA[<article><h1>The iPhone Thought Experiment - Wait But Why</h1><p>A friend dropped this one on me the other day- Imagine this: A powerfully magical, but very dickish witch decides to cast a spell on all of humanity. With a single swoop of her wand, she makes all man-made objects vanish and restores the Earth to its pre-human, 200,000 BC state.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db6fb0146700b3c124958e5c54c4c577dbc86a2b.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The iPhone Thought Experiment - Wait But Why</h1><p>A friend dropped this one on me the other day- Imagine this: A powerfully magical, but very dickish witch decides to cast a spell on all of humanity. With a single swoop of her wand, she makes all man-made objects vanish and restores the Earth to its pre-human, 200,000 BC state.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04aa3044d500d0d5cc75ade32ca4a3e1846557e0.png"></article>]]></description>
             <link>http://waitbutwhy.com/table/iphone-thought-experiment</link>
             <guid isPermaLink="false">48896645-28a3-45c9-9715-9f8327d7a163</guid>
             <pubDate>Mon, 23 Nov 2015 01:57:09 GMT</pubDate>
