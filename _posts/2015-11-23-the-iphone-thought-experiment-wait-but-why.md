@@ -17,7 +17,7 @@ keywords:
   - people
   - know
 description: 'A friend dropped this one on me the other day- Imagine this: A powerfully magical, but very dickish witch decides to cast a spell on all of humanity. With a single swoop of her wand, she makes all man-made objects vanish and restores the Earth to its pre-human, 200,000 BC state.'
-datePublished: '2016-01-22T22:32:47.640Z'
+datePublished: '2016-01-22T22:32:47.761Z'
 dateModified: '2016-01-22T19:54:32.319Z'
 author:
   - name: View all posts by Tim Urban →
